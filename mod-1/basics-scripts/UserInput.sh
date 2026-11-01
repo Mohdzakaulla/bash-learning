@@ -1,0 +1,7 @@
+#!/bin/bash
+echo "Enter your name: "
+read name
+echo "Enter your role: "
+read role
+echo "welcome $name, your role is $role"
+S
